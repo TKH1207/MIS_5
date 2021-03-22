@@ -1,2 +1,2 @@
-# MIS_5
-HW6
+# MIS_group5
+HW6 git練習
